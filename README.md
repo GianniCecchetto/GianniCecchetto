@@ -35,4 +35,4 @@ Welcome to my GitHub profile! I'm a developer who loves to try new things!
 
 ## 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=tr
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=giannicecchetto&show_icons=true&count_private=tr
