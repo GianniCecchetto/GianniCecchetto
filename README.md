@@ -1,29 +1,25 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Gianni Cecchetto! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies, build projects, and continuously learn. This is where I share my work, projects, and experiments with the world.
+Welcome to my GitHub profile! I'm a developer who loves to try new things!
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on [Your current project or focus]
-- 🌱 I’m currently learning [Technology or language you're learning]
-- 👯 I’m looking to collaborate on [Type of projects you're interested in collaborating on]
-- 🤔 I’m looking for help with [Something you're seeking help with, if applicable]
-- 💬 Ask me about [Topics you're comfortable helping with]
-- 📫 How to reach me: [Your preferred contact, such as email or social media link]
-- ⚡ Fun fact: [A fun, personal fact about you]
+- 🌱 I’m currently learning at **HEIG-VD** in Switzerland as a computer scientist specialized in embedded systems.
+- 📫 How to reach me: [giannicecchetto59@gmail.com](giannicecchetto59@gmail.com)
 
 ## 🚀 Skills & Technologies
 
 ### Programming Languages
-- 📝 **JavaScript** (ES6+)
+- 📝 **JavaScript**
 - 🐍 **Python**
 - ☕ **Java**
 - ⚙️ **C/C++**
+- #️⃣ **C#**
 
 ### Frontend Development
-- 🖥️ **HTML5**, **CSS3**, **Sass**
-- 💻 **React** | **Vue.js** | **Angular**
-- 📱 **Responsive Design** | **Bootstrap** | **Tailwind CSS**
+- 🖥️ **HTML**, **CSS**
+- 💻 **Angular**
+- 📱 **Bootstrap**
 
 ### Backend Development
 - 🌐 **Node.js** | **Express.js**
@@ -31,23 +27,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - 🛠️ **REST APIs** | **GraphQL**
 
 ### DevOps & Tools
-- 🚀 **Docker**, **Kubernetes**
-- 🌿 **CI/CD** (GitHub Actions, Jenkins, etc.)
-- 🔧 **Git** | **GitHub** | **Bitbucket**
-- 🔒 **JWT Authentication** | **OAuth**
+- 🚀 **Docker**
+- 🔧 **Git** | **GitHub**
 
 ### Cloud & Hosting
-- ☁️ **AWS** | **Google Cloud Platform**
-- 🔗 **Heroku** | **Netlify** | **Vercel**
-
-### Testing
-- ✅ **Jest** | **Mocha** | **Chai**
-- 🧪 **Cypress** | **Selenium**
-
-### Other Skills
-- 🧑‍🤝‍🧑 **Team Collaboration & Agile Methodologies**
-- 🌍 **Version Control** | **GitFlow**
-- ✨ **UI/UX Design** | **Figma** | **Adobe XD**
+- ☁️ **Maybe one time**
 
 ## 📈 My GitHub Stats
 
