@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a developer who loves to try new things!
 ## 👨‍💻 About Me
 
 - 🌱 I’m currently learning at **HEIG-VD** in Switzerland as a computer scientist specialized in embedded systems.
-- 📫 How to reach me: [giannicecchetto59@gmail.com](giannicecchetto59@gmail.com)
+- 📫 How to reach me: [giannicecchetto59@gmail.com]
 
 ## 🚀 Skills & Technologies
 
